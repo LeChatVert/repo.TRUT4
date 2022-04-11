@@ -1,7 +1,7 @@
 const SUITS = ["♣", "♦", "♥", "♠"]
 const VALUES = ["7", "8", "A", "R", "D", "V", "10", "9"]
 
-import nbrpli from './script.js'
+import nbrpli from './script4Joueurs.js'
 
 export default class Deck {
   
